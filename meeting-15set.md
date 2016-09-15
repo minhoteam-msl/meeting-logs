@@ -13,7 +13,9 @@
 * Record weekly lectures and publish on team's Youtube
 
 ###TEAMS
-Helder Ribeiro & Pedro Osório
-Tiago Maia & André Pereira
-Ricardo Roriz & Bruno Ribeiro
-Álvaro Leite & Leite Álvaro (for now)
+Helder Ribeiro & Pedro Osório   
+Tiago Maia & André Pereira   
+Ricardo Roriz & Bruno Ribeiro   
+Álvaro Leite & Leite Álvaro (for now)   
+
+
