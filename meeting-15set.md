@@ -11,3 +11,9 @@
 * Localization thesis for André Pereira (Aid from Tiago Maia)
 * RTDB for Ricardo Roriz/FPGA solution for hardware image processing (Aid from Bruno Ribeiro)
 * Record weekly lectures and publish on team's Youtube
+
+###TEAMS
+Helder Ribeiro & Pedro Osório
+Tiago Maia & André Pereira
+Ricardo Roriz & Bruno Ribeiro
+Álvaro Leite & Leite Álvaro (for now)
